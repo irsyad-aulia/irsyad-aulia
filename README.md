@@ -3,7 +3,7 @@
 I am a **Creative Technologist** bridging the gap between high-performance engineering and cinematic visual experiences. I don't just write code; I build digital products that sell.
 
 - 🔭 I’m currently working on **Advanced SaaS Dashboards & 3D Web Apps**
-- ⚡ Tech Stack: **Next.js 14, TypeScript, Tailwind CSS, Framer Motion, Three.js**
+- ⚡ Tech Stack: **Next.js 15, TypeScript, Tailwind CSS, Framer Motion, Three.js**
 - 💼 Open for: **Async Remote Work (Global)**
 
 ---
