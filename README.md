@@ -39,7 +39,7 @@ In a market flooded with UI kits, Just-d stands out by prioritizing **Interactio
 
 Visit the documentation for installation guides and interactive demos:
 
-👉 **[elite-next]((https://elite-next-mu.vercel.app/)) & [my-supernova-portfolio]((https://my-supernova-portfolio.vercel.app/))**
+👉 **[elite-next](https://elite-next-mu.vercel.app/) & [my-supernova-portfolio](https://my-supernova-portfolio.vercel.app/)**
 
 ---
 
@@ -52,4 +52,4 @@ I built Just-d to solve a recurring problem in high-stakes projects: **The need 
 
 ---
 
-[Twitter](https://twitter.com/irsyad_adl) • [Website](https://irsyad.co) • [GitHub](https://github.com/irsyad-aulia)
+[Fiverr](https://www.fiverr.com/s/WEAYqgB) • [linkedin](www.linkedin.com/in/muhammad-irsyad-aulia-207823238) • [GitHub](https://github.com/irsyad-aulia)
