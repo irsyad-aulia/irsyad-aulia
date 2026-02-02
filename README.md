@@ -52,4 +52,4 @@ I built Just-d to solve a recurring problem in high-stakes projects: **The need 
 
 ---
 
-[Fiverr](https://www.fiverr.com/s/WEAYqgB) • [linkedin](www.linkedin.com/in/muhammad-irsyad-aulia-207823238) • [GitHub](https://github.com/irsyad-aulia)
+[Fiverr](https://www.fiverr.com/s/WEAYqgB) • [linkedin](httpa://www.linkedin.com/in/muhammad-irsyad-aulia-207823238) • [GitHub](https://github.com/irsyad-aulia)
