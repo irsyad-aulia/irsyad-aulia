@@ -39,7 +39,7 @@ In a market flooded with UI kits, Just-d stands out by prioritizing **Interactio
 
 Visit the documentation for installation guides and interactive demos:
 
-👉 **[https://just-d.co](https://just-d.co)**
+👉 **[elite-next]((https://elite-next-mu.vercel.app/)) & [my-supernova-portfolio]((https://my-supernova-portfolio.vercel.app/))**
 
 ---
 
