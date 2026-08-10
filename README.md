@@ -61,7 +61,7 @@ Here are a few technical case studies of workflows I have engineered. Click on t
 
 I am currently open to freelance opportunities, B2B consulting, and remote roles globally.
 
-- 💼 **LinkedIn:** [linkedin.com/in/irsyad-ai-automation](link-linkedin)
+- 💼 **LinkedIn:** [www.linkedin.com/in/irsyad-ai-automation](link-linkedin)
 - 📧 **Email:** [irsyadjokam313@gmail.com](mailto:email@domain.com)
 
 > *"Automation is not about replacing people; it's about empowering them to do their best work."*
