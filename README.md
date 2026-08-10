@@ -1,4 +1,4 @@
-# Hi there, I'm Muhammad Irsyad Auli 🚀
+# Hi there, I'm Muhammad Irsyad Aulia 🚀
 
 ### AI Automation Engineer | n8n Specialist | Business Process Optimizer
 
