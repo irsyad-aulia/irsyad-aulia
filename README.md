@@ -1,55 +1,68 @@
-# Just-d 
-### The High-Performance React Component Library
+# Hi there, I'm [Nama Anda] 🚀
 
-[![Performance: 60fps](https://img.shields.io/badge/Performance-60fps-blueviolet?style=for-the-badge&logo=framer)](https://just-d.co)
-[![License: MIT](https://img.shields.io/badge/License-MIT-black?style=for-the-badge)](https://github.com/irsyad-aulia/just-d/blob/main/LICENSE)
-[![Stack: Next.js 15](https://img.shields.io/badge/Stack-Next.js%2015-black?style=for-the-badge&logo=next.js)](https://nextjs.org)
+### AI Automation Engineer | n8n Specialist | Business Process Optimizer
 
-<br />
+I design and build intelligent, scalable automation workflows using **n8n** and **AI**. My focus is on solving complex operational bottlenecks, integrating disparate systems, and helping businesses reduce manual workload so they can focus on growth.
 
-> **"Built for speed, obsessed with details."**
-> 
-> Just-d is a design system infrastructure engineered for high-end interfaces. It combines **Radix UI** primitives for accessibility with **Tailwind CSS** for styling, orchestrated by **Framer Motion** for 60fps interactions.
-
-<br />
-
-## 💎 Why Just-d?
-
-In a market flooded with UI kits, Just-d stands out by prioritizing **Interaction Performance** and **Developer Experience**.
-
-- **🏎 60fps Obsession**: Every component is stress-tested to ensure zero layout thrashing and buttery smooth transitions.
-- **♿️ Accessible by Default**: Built on top of Radix UI primitives, ensuring WAI-ARIA compliance out of the box.
-- **🎨 Elite Aesthetics**: Clean, futuristic, and "Linear-style" visuals that feel premium instantly.
-- **🧩 Copy-Paste Architecture**: You own the code. No black-box npm packages that lock you in.
+If you are looking to automate your lead generation, customer support, or internal operations with precise AI integrations, you are in the right place.
 
 ---
 
-## 🛠 Tech Stack & Architecture
-
-| Layer | Technology | Philosophy |
-| :--- | :--- | :--- |
-| **Framework** | Next.js 15 (App Router) | Server Components first, Client Components when necessary. |
-| **Styling** | Tailwind CSS + Variants | Type-safe styling system with clean utility classes. |
-| **Motion** | Framer Motion | Meaningful transitions using `layoutId` for seamless state changes. |
-| **Logic** | TypeScript | Strict typing for a robust and bug-free development experience. |
+## 💡 What I Do
+- **Workflow Architecture:** Designing robust, self-healing automation architectures in n8n.
+- **AI Integration:** Embedding LLMs (OpenAI, Anthropic, local models) into daily business operations.
+- **API Development:** Connecting undocumented or niche SaaS platforms via custom HTTP requests and webhooks.
+- **Data Engineering:** Structuring and routing data streams efficiently between CRM, ERP, and databases.
 
 ---
 
-## 🚀 Quick Start
+## 🛠️ Tech Stack & Tools
 
-Visit the documentation for installation guides and interactive demos:
+**Core Automation & AI:**
+![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
-👉 **[elite-next](https://elite-next-mu.vercel.app/) & [my-supernova-portfolio](https://my-supernova-portfolio.vercel.app/)**
+**Languages & Backend:**
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Database & Cloud:**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+
+*(Note: You can add or remove badges above based on your exact stack using shields.io)*
 
 ---
 
-## 👨‍💻 Author's Note (Async Culture)
+## 💼 Featured Automations (Proof of Work)
 
-I built Just-d to solve a recurring problem in high-stakes projects: **The need for speed without sacrificing quality.** This repository reflects my engineering values:
-1.  **Documentation is King**: Clear code > long meetings.
-2.  **Performance is a Feature**: If it lags, it's broken.
-3.  **Async-First**: Built with detailed commits and architectural clarity to facilitate global collaboration.
+Here are a few technical case studies of workflows I have engineered. Click on the repositories to see the architecture diagrams and JSON blueprints.
+
+| Project / Workflow | Description | Business Impact |
+| ------------------ | ----------- | --------------- |
+| **[📂 Auto-Lead-Enrichment-n8n](link-repo-anda)** | Automated pipeline that captures Typeform leads, enriches data via LinkedIn API, and drafts personalized emails using GPT-4. | *Saved 15+ hours/week for sales teams.* |
+| **[📂 Customer-Support-AI-Agent](link-repo-anda)** | Zendesk/Intercom integration with n8n and Pinecone (RAG) to auto-resolve Tier 1 support tickets. | *Reduced average response time by 80%.* |
+| **[📂 Social-Media-Content-Engine](link-repo-anda)** | Automated RSS scraping, AI summarization, and scheduling posts across LinkedIn and X. | *Maintained 100% daily posting consistency.* |
 
 ---
 
-[Fiverr](https://www.fiverr.com/s/WEAYqgB) • [linkedin](https://www.linkedin.com/in/muhammad-irsyad-aulia-207823238) • [GitHub](https://github.com/irsyad-aulia)
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[USERNAME_GITHUB_ANDA]&show_icons=true&theme=radium&hide_border=true" alt="Your GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME_GITHUB_ANDA]&layout=compact&theme=radium&hide_border=true" alt="Top Languages" width="48%">
+</p>
+
+---
+
+## 📫 Let's Connect & Collaborate
+
+I am currently open to freelance opportunities, B2B consulting, and remote roles globally.
+
+- 💼 **LinkedIn:** [linkedin.com/in/username-anda](link-linkedin)
+- 📅 **Book a Call:** [calendly.com/username-anda](link-calendly)
+- 📧 **Email:** [email@domain.com](mailto:email@domain.com)
+
+> *"Automation is not about replacing people; it's about empowering them to do their best work."*
