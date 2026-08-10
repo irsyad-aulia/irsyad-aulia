@@ -1,4 +1,4 @@
-# Hi there, I'm Muhammad Irsyad Aulia 🚀
+# Hi there, I'm Muhammad Irsyad Aulia  🚀
 
 ### AI Automation Engineer | n8n Specialist | Business Process Optimizer
 
@@ -36,23 +36,11 @@ If you are looking to automate your lead generation, customer support, or intern
 
 ---
 
-## 💼 Featured Automations (Proof of Work)
-
-Here are a few technical case studies of workflows I have engineered. Click on the repositories to see the architecture diagrams and JSON blueprints.
-
-| Project / Workflow | Description | Business Impact |
-| ------------------ | ----------- | --------------- |
-| **[📂 Auto-Lead-Enrichment-n8n](link-repo-anda)** | Automated pipeline that captures Typeform leads, enriches data via LinkedIn API, and drafts personalized emails using GPT-4. | *Saved 15+ hours/week for sales teams.* |
-| **[📂 Customer-Support-AI-Agent](link-repo-anda)** | Zendesk/Intercom integration with n8n and Pinecone (RAG) to auto-resolve Tier 1 support tickets. | *Reduced average response time by 80%.* |
-| **[📂 Social-Media-Content-Engine](link-repo-anda)** | Automated RSS scraping, AI summarization, and scheduling posts across LinkedIn and X. | *Maintained 100% daily posting consistency.* |
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[USERNAME_GITHUB_ANDA]&show_icons=true&theme=radium&hide_border=true" alt="Your GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME_GITHUB_ANDA]&layout=compact&theme=radium&hide_border=true" alt="Top Languages" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=[irsyad-aulia]&show_icons=true&theme=radium&hide_border=true" alt="Your GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[irsyad-aulia]&layout=compact&theme=radium&hide_border=true" alt="Top Languages" width="48%">
 </p>
 
 ---
@@ -61,7 +49,7 @@ Here are a few technical case studies of workflows I have engineered. Click on t
 
 I am currently open to freelance opportunities, B2B consulting, and remote roles globally.
 
-- 💼 **LinkedIn:** [www.linkedin.com/in/irsyad-ai-automation](link-linkedin)
-- 📧 **Email:** [irsyadjokam313@gmail.com](mailto:email@domain.com)
+- 💼 **LinkedIn:** [linkedin.com/in/irsyad-ai-automation](www.linkedin.com/in/irsyad-ai-automation)
+- 📧 **Email:** [irsyadjokam313@gmail.com](mailto:irsyadjokam313@gmail.com)
 
 > *"Automation is not about replacing people; it's about empowering them to do their best work."*
